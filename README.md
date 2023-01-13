@@ -1,16 +1,3 @@
 # vue-music
+# 基于vue3开发的音乐播放器
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
